@@ -19,4 +19,3 @@
 
 - Сайт: [alexandrkomarov.com](https://alexandrkomarov.com)
 - Telegram: [@alexandrkomarov](https://t.me/alexandrkomarov)
-- Канал: [t.me/k_partner](https://t.me/k_partner)
