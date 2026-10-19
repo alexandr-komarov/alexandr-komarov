@@ -13,6 +13,7 @@
 - [Нейросети в повседневной рабочей практике](https://alexandrkomarov.com/s/ai-prompt/)
 - [Perplexity Pro](https://alexandrkomarov.com/s/perplexity/)
 - [Инструменты для работы с нейросетями](https://alexandrkomarov.com/tools/)
+- [Маска](https://github.com/alexandr-komarov/maska) - обезличивание договоров, актов и выгрузок 1С перед отправкой в нейросеть, открытый код, ставится во внутренний контур
 - [Блог](https://alexandrkomarov.com/blog/)
 
 ## Контакты
